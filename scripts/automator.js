@@ -18,6 +18,45 @@ async function runCommand(command) {
     }
 }
 
+async function processCommit(commit) {
+    console.log(`Processing commit: ${commit.message}`);
+
+    // Ensure directory exists
+    const dir = path.dirname(commit.file);
+    if (dir !== '.') {
+        await fs.mkdir(dir, { recursive: true });
+    }
+
+    // Write file content
+    // If append is true, append to file, else overwrite
+    if (commit.append) {
+        await fs.appendFile(commit.file, commit.content);
+    } else {
+        await fs.writeFile(commit.file, commit.content);
+    }
+
+    // Git add
+    await runCommand(`git add "${commit.file}"`);
+
+    // Git commit
+    await runCommand(`git commit -m "${commit.message}"`);
+}
+
+async function createPR(branch) {
+    console.log(`Creating PR for branch: ${branch.name}`);
+    // gh pr create --title "Title" --body "Body" --head branch --base main
+    await runCommand(`gh pr create --title "${branch.pr_title}" --body "${branch.pr_body}" --head ${branch.name} --base main`);
+}
+
+async function mergePR(branch) {
+    console.log(`Merging PR for branch: ${branch.name}`);
+    // gh pr merge <branch> --merge --auto
+    // Sometimes merge needs to happen after checks. For now we use --merge to merge immediately if possible.
+    // Using --admin might require admin privileges.
+    await runCommand(`gh pr merge ${branch.name} --merge --delete-branch`);
+}
+
+
 
 async function processFeature(feature) {
     console.log(`Processing feature: ${feature.name}`);
