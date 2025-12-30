@@ -1,0 +1,2434 @@
+{
+  "features": [
+    {
+      "name": "stacks-integration",
+      "branches": [
+        {
+          "name": "feat/stacks-integ-1",
+          "commits": [
+            {
+              "file": "src/lib/stacks.ts",
+              "content": "// Stacks integration part 1\n",
+              "append": false,
+              "message": "feat: stacks setup part 1"
+            },
+            {
+              "file": "src/lib/transactions.ts",
+              "content": "// Transactions part 1\n",
+              "append": false,
+              "message": "feat: transaction setup part 1"
+            },
+            {
+              "file": "timestamp.txt",
+              "content": "Updated at 1767076366255\n",
+              "append": true,
+              "message": "chore: update timestamp 1"
+            },
+            {
+              "file": "src/lib/constants.ts",
+              "content": "export const CONST_1 = 1;\n",
+              "append": true,
+              "message": "feat: add constants 1"
+            },
+            {
+              "file": "tests/stacks.test.ts",
+              "content": "test('stacks 1', () => {});\n",
+              "append": true,
+              "message": "test: add stacks test 1"
+            }
+          ],
+          "pr_title": "feat: stacks-integ implementation part 1",
+          "pr_body": "Automated PR for stacks-integ part 1"
+        },
+        {
+          "name": "feat/stacks-integ-2",
+          "commits": [
+            {
+              "file": "src/lib/stacks.ts",
+              "content": "// Stacks integration part 2\n",
+              "append": true,
+              "message": "feat: stacks setup part 2"
+            },
+            {
+              "file": "src/lib/transactions.ts",
+              "content": "// Transactions part 2\n",
+              "append": true,
+              "message": "feat: transaction setup part 2"
+            },
+            {
+              "file": "timestamp.txt",
+              "content": "Updated at 1767076366255\n",
+              "append": true,
+              "message": "chore: update timestamp 2"
+            },
+            {
+              "file": "src/lib/constants.ts",
+              "content": "export const CONST_2 = 2;\n",
+              "append": true,
+              "message": "feat: add constants 2"
+            },
+            {
+              "file": "tests/stacks.test.ts",
+              "content": "test('stacks 2', () => {});\n",
+              "append": true,
+              "message": "test: add stacks test 2"
+            }
+          ],
+          "pr_title": "feat: stacks-integ implementation part 2",
+          "pr_body": "Automated PR for stacks-integ part 2"
+        },
+        {
+          "name": "feat/stacks-integ-3",
+          "commits": [
+            {
+              "file": "src/lib/stacks.ts",
+              "content": "// Stacks integration part 3\n",
+              "append": true,
+              "message": "feat: stacks setup part 3"
+            },
+            {
+              "file": "src/lib/transactions.ts",
+              "content": "// Transactions part 3\n",
+              "append": true,
+              "message": "feat: transaction setup part 3"
+            },
+            {
+              "file": "timestamp.txt",
+              "content": "Updated at 1767076366255\n",
+              "append": true,
+              "message": "chore: update timestamp 3"
+            },
+            {
+              "file": "src/lib/constants.ts",
+              "content": "export const CONST_3 = 3;\n",
+              "append": true,
+              "message": "feat: add constants 3"
+            },
+            {
+              "file": "tests/stacks.test.ts",
+              "content": "test('stacks 3', () => {});\n",
+              "append": true,
+              "message": "test: add stacks test 3"
+            }
+          ],
+          "pr_title": "feat: stacks-integ implementation part 3",
+          "pr_body": "Automated PR for stacks-integ part 3"
+        },
+        {
+          "name": "feat/stacks-integ-4",
+          "commits": [
+            {
+              "file": "src/lib/stacks.ts",
+              "content": "// Stacks integration part 4\n",
+              "append": true,
+              "message": "feat: stacks setup part 4"
+            },
+            {
+              "file": "src/lib/transactions.ts",
+              "content": "// Transactions part 4\n",
+              "append": true,
+              "message": "feat: transaction setup part 4"
+            },
+            {
+              "file": "timestamp.txt",
+              "content": "Updated at 1767076366255\n",
+              "append": true,
+              "message": "chore: update timestamp 4"
+            },
+            {
+              "file": "src/lib/constants.ts",
+              "content": "export const CONST_4 = 4;\n",
+              "append": true,
+              "message": "feat: add constants 4"
+            },
+            {
+              "file": "tests/stacks.test.ts",
+              "content": "test('stacks 4', () => {});\n",
+              "append": true,
+              "message": "test: add stacks test 4"
+            }
+          ],
+          "pr_title": "feat: stacks-integ implementation part 4",
+          "pr_body": "Automated PR for stacks-integ part 4"
+        },
+        {
+          "name": "feat/stacks-integ-5",
+          "commits": [
+            {
+              "file": "src/lib/stacks.ts",
+              "content": "// Stacks integration part 5\n",
+              "append": true,
+              "message": "feat: stacks setup part 5"
+            },
+            {
+              "file": "src/lib/transactions.ts",
+              "content": "// Transactions part 5\n",
+              "append": true,
+              "message": "feat: transaction setup part 5"
+            },
+            {
+              "file": "timestamp.txt",
+              "content": "Updated at 1767076366255\n",
+              "append": true,
+              "message": "chore: update timestamp 5"
+            },
+            {
+              "file": "src/lib/constants.ts",
+              "content": "export const CONST_5 = 5;\n",
+              "append": true,
+              "message": "feat: add constants 5"
+            },
+            {
+              "file": "tests/stacks.test.ts",
+              "content": "test('stacks 5', () => {});\n",
+              "append": true,
+              "message": "test: add stacks test 5"
+            }
+          ],
+          "pr_title": "feat: stacks-integ implementation part 5",
+          "pr_body": "Automated PR for stacks-integ part 5"
+        }
+      ]
+    },
+    {
+      "name": "wallet-connect",
+      "branches": [
+        {
+          "name": "feat/wallet-connect-1",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 1\n",
+              "append": false,
+              "message": "feat: wc setup 1"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 1\n",
+              "append": false,
+              "message": "feat: wc modal 1"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 1\n",
+              "append": false,
+              "message": "feat: wc hook 1"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 1 */\n",
+              "append": false,
+              "message": "style: wc styles 1"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 1",
+              "append": true,
+              "message": "docs: update readme 1"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 1",
+          "pr_body": "Automated PR for wallet-connect part 1"
+        },
+        {
+          "name": "feat/wallet-connect-2",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 2\n",
+              "append": true,
+              "message": "feat: wc setup 2"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 2\n",
+              "append": true,
+              "message": "feat: wc modal 2"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 2\n",
+              "append": true,
+              "message": "feat: wc hook 2"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 2 */\n",
+              "append": true,
+              "message": "style: wc styles 2"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 2",
+              "append": true,
+              "message": "docs: update readme 2"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 2",
+          "pr_body": "Automated PR for wallet-connect part 2"
+        },
+        {
+          "name": "feat/wallet-connect-3",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 3\n",
+              "append": true,
+              "message": "feat: wc setup 3"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 3\n",
+              "append": true,
+              "message": "feat: wc modal 3"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 3\n",
+              "append": true,
+              "message": "feat: wc hook 3"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 3 */\n",
+              "append": true,
+              "message": "style: wc styles 3"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 3",
+              "append": true,
+              "message": "docs: update readme 3"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 3",
+          "pr_body": "Automated PR for wallet-connect part 3"
+        },
+        {
+          "name": "feat/wallet-connect-4",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 4\n",
+              "append": true,
+              "message": "feat: wc setup 4"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 4\n",
+              "append": true,
+              "message": "feat: wc modal 4"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 4\n",
+              "append": true,
+              "message": "feat: wc hook 4"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 4 */\n",
+              "append": true,
+              "message": "style: wc styles 4"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 4",
+              "append": true,
+              "message": "docs: update readme 4"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 4",
+          "pr_body": "Automated PR for wallet-connect part 4"
+        },
+        {
+          "name": "feat/wallet-connect-5",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 5\n",
+              "append": true,
+              "message": "feat: wc setup 5"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 5\n",
+              "append": true,
+              "message": "feat: wc modal 5"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 5\n",
+              "append": true,
+              "message": "feat: wc hook 5"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 5 */\n",
+              "append": true,
+              "message": "style: wc styles 5"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 5",
+              "append": true,
+              "message": "docs: update readme 5"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 5",
+          "pr_body": "Automated PR for wallet-connect part 5"
+        },
+        {
+          "name": "feat/wallet-connect-6",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 6\n",
+              "append": true,
+              "message": "feat: wc setup 6"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 6\n",
+              "append": true,
+              "message": "feat: wc modal 6"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 6\n",
+              "append": true,
+              "message": "feat: wc hook 6"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 6 */\n",
+              "append": true,
+              "message": "style: wc styles 6"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 6",
+              "append": true,
+              "message": "docs: update readme 6"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 6",
+          "pr_body": "Automated PR for wallet-connect part 6"
+        },
+        {
+          "name": "feat/wallet-connect-7",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 7\n",
+              "append": true,
+              "message": "feat: wc setup 7"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 7\n",
+              "append": true,
+              "message": "feat: wc modal 7"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 7\n",
+              "append": true,
+              "message": "feat: wc hook 7"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 7 */\n",
+              "append": true,
+              "message": "style: wc styles 7"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 7",
+              "append": true,
+              "message": "docs: update readme 7"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 7",
+          "pr_body": "Automated PR for wallet-connect part 7"
+        },
+        {
+          "name": "feat/wallet-connect-8",
+          "commits": [
+            {
+              "file": "src/lib/wallet-connect.ts",
+              "content": "// WC Part 8\n",
+              "append": true,
+              "message": "feat: wc setup 8"
+            },
+            {
+              "file": "src/components/WalletModal.tsx",
+              "content": "// Modal Part 8\n",
+              "append": true,
+              "message": "feat: wc modal 8"
+            },
+            {
+              "file": "src/hooks/useWallet.ts",
+              "content": "// Hook Part 8\n",
+              "append": true,
+              "message": "feat: wc hook 8"
+            },
+            {
+              "file": "src/assets/wc-styles.css",
+              "content": "/* Style 8 */\n",
+              "append": true,
+              "message": "style: wc styles 8"
+            },
+            {
+              "file": "README.md",
+              "content": "\n- Wallet Connect Step 8",
+              "append": true,
+              "message": "docs: update readme 8"
+            }
+          ],
+          "pr_title": "feat: wallet-connect implementation part 8",
+          "pr_body": "Automated PR for wallet-connect part 8"
+        }
+      ]
+    },
+    {
+      "name": "chainhooks",
+      "branches": [
+        {
+          "name": "feat/chainhooks-1",
+          "commits": [
+            {
+              "file": "src/lib/chainhooks.ts",
+              "content": "// Chainhooks 1\n",
+              "append": false,
+              "message": "feat: chainhooks setup 1"
+            },
+            {
+              "file": "config/chainhooks.json",
+              "content": "{\"step\": 1}\n",
+              "message": "config: chainhooks config 1"
+            },
+            {
+              "file": "src/services/monitor.ts",
+              "content": "// Monitor 1\n",
+              "append": false,
+              "message": "feat: monitor 1"
+            }
+          ],
+          "pr_title": "feat: chainhooks implementation part 1",
+          "pr_body": "Automated PR for chainhooks part 1"
+        },
+        {
+          "name": "feat/chainhooks-2",
+          "commits": [
+            {
+              "file": "src/lib/chainhooks.ts",
+              "content": "// Chainhooks 2\n",
+              "append": true,
+              "message": "feat: chainhooks setup 2"
+            },
+            {
+              "file": "config/chainhooks.json",
+              "content": "{\"step\": 2}\n",
+              "message": "config: chainhooks config 2"
+            },
+            {
+              "file": "src/services/monitor.ts",
+              "content": "// Monitor 2\n",
+              "append": true,
+              "message": "feat: monitor 2"
+            }
+          ],
+          "pr_title": "feat: chainhooks implementation part 2",
+          "pr_body": "Automated PR for chainhooks part 2"
+        },
+        {
+          "name": "feat/chainhooks-3",
+          "commits": [
+            {
+              "file": "src/lib/chainhooks.ts",
+              "content": "// Chainhooks 3\n",
+              "append": true,
+              "message": "feat: chainhooks setup 3"
+            },
+            {
+              "file": "config/chainhooks.json",
+              "content": "{\"step\": 3}\n",
+              "message": "config: chainhooks config 3"
+            },
+            {
+              "file": "src/services/monitor.ts",
+              "content": "// Monitor 3\n",
+              "append": true,
+              "message": "feat: monitor 3"
+            }
+          ],
+          "pr_title": "feat: chainhooks implementation part 3",
+          "pr_body": "Automated PR for chainhooks part 3"
+        },
+        {
+          "name": "feat/chainhooks-4",
+          "commits": [
+            {
+              "file": "src/lib/chainhooks.ts",
+              "content": "// Chainhooks 4\n",
+              "append": true,
+              "message": "feat: chainhooks setup 4"
+            },
+            {
+              "file": "config/chainhooks.json",
+              "content": "{\"step\": 4}\n",
+              "message": "config: chainhooks config 4"
+            },
+            {
+              "file": "src/services/monitor.ts",
+              "content": "// Monitor 4\n",
+              "append": true,
+              "message": "feat: monitor 4"
+            }
+          ],
+          "pr_title": "feat: chainhooks implementation part 4",
+          "pr_body": "Automated PR for chainhooks part 4"
+        },
+        {
+          "name": "feat/chainhooks-5",
+          "commits": [
+            {
+              "file": "src/lib/chainhooks.ts",
+              "content": "// Chainhooks 5\n",
+              "append": true,
+              "message": "feat: chainhooks setup 5"
+            },
+            {
+              "file": "config/chainhooks.json",
+              "content": "{\"step\": 5}\n",
+              "message": "config: chainhooks config 5"
+            },
+            {
+              "file": "src/services/monitor.ts",
+              "content": "// Monitor 5\n",
+              "append": true,
+              "message": "feat: monitor 5"
+            }
+          ],
+          "pr_title": "feat: chainhooks implementation part 5",
+          "pr_body": "Automated PR for chainhooks part 5"
+        }
+      ]
+    },
+    {
+      "name": "ui-components",
+      "branches": [
+        {
+          "name": "feat/ui-header-struct",
+          "commits": [
+            {
+              "file": "src/components/Header.tsx",
+              "content": "export const Header = () => <div>Header</div>;\n",
+              "message": "feat: add Header component"
+            },
+            {
+              "file": "src/components/Header.css",
+              "content": ".Header { display: block; }\n",
+              "message": "style: add Header styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Header';\n",
+              "append": true,
+              "message": "feat: export Header"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 1",
+          "pr_body": "Automated PR for ui part 1"
+        },
+        {
+          "name": "feat/ui-header-enhance",
+          "commits": [
+            {
+              "file": "src/components/Header.tsx",
+              "content": "// Enhanced Header\n",
+              "append": true,
+              "message": "feat: enhance Header"
+            },
+            {
+              "file": "tests/components/Header.test.tsx",
+              "content": "test('Header', () => {});\n",
+              "message": "test: add Header tests"
+            },
+            {
+              "file": "stories/Header.stories.tsx",
+              "content": "// Story Header\n",
+              "message": "docs: add Header story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 2",
+          "pr_body": "Automated PR for ui part 2"
+        },
+        {
+          "name": "feat/ui-footer-struct",
+          "commits": [
+            {
+              "file": "src/components/Footer.tsx",
+              "content": "export const Footer = () => <div>Footer</div>;\n",
+              "message": "feat: add Footer component"
+            },
+            {
+              "file": "src/components/Footer.css",
+              "content": ".Footer { display: block; }\n",
+              "message": "style: add Footer styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Footer';\n",
+              "append": true,
+              "message": "feat: export Footer"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 3",
+          "pr_body": "Automated PR for ui part 3"
+        },
+        {
+          "name": "feat/ui-footer-enhance",
+          "commits": [
+            {
+              "file": "src/components/Footer.tsx",
+              "content": "// Enhanced Footer\n",
+              "append": true,
+              "message": "feat: enhance Footer"
+            },
+            {
+              "file": "tests/components/Footer.test.tsx",
+              "content": "test('Footer', () => {});\n",
+              "message": "test: add Footer tests"
+            },
+            {
+              "file": "stories/Footer.stories.tsx",
+              "content": "// Story Footer\n",
+              "message": "docs: add Footer story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 4",
+          "pr_body": "Automated PR for ui part 4"
+        },
+        {
+          "name": "feat/ui-sidebar-struct",
+          "commits": [
+            {
+              "file": "src/components/Sidebar.tsx",
+              "content": "export const Sidebar = () => <div>Sidebar</div>;\n",
+              "message": "feat: add Sidebar component"
+            },
+            {
+              "file": "src/components/Sidebar.css",
+              "content": ".Sidebar { display: block; }\n",
+              "message": "style: add Sidebar styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Sidebar';\n",
+              "append": true,
+              "message": "feat: export Sidebar"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 5",
+          "pr_body": "Automated PR for ui part 5"
+        },
+        {
+          "name": "feat/ui-sidebar-enhance",
+          "commits": [
+            {
+              "file": "src/components/Sidebar.tsx",
+              "content": "// Enhanced Sidebar\n",
+              "append": true,
+              "message": "feat: enhance Sidebar"
+            },
+            {
+              "file": "tests/components/Sidebar.test.tsx",
+              "content": "test('Sidebar', () => {});\n",
+              "message": "test: add Sidebar tests"
+            },
+            {
+              "file": "stories/Sidebar.stories.tsx",
+              "content": "// Story Sidebar\n",
+              "message": "docs: add Sidebar story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 6",
+          "pr_body": "Automated PR for ui part 6"
+        },
+        {
+          "name": "feat/ui-button-struct",
+          "commits": [
+            {
+              "file": "src/components/Button.tsx",
+              "content": "export const Button = () => <div>Button</div>;\n",
+              "message": "feat: add Button component"
+            },
+            {
+              "file": "src/components/Button.css",
+              "content": ".Button { display: block; }\n",
+              "message": "style: add Button styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Button';\n",
+              "append": true,
+              "message": "feat: export Button"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 7",
+          "pr_body": "Automated PR for ui part 7"
+        },
+        {
+          "name": "feat/ui-button-enhance",
+          "commits": [
+            {
+              "file": "src/components/Button.tsx",
+              "content": "// Enhanced Button\n",
+              "append": true,
+              "message": "feat: enhance Button"
+            },
+            {
+              "file": "tests/components/Button.test.tsx",
+              "content": "test('Button', () => {});\n",
+              "message": "test: add Button tests"
+            },
+            {
+              "file": "stories/Button.stories.tsx",
+              "content": "// Story Button\n",
+              "message": "docs: add Button story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 8",
+          "pr_body": "Automated PR for ui part 8"
+        },
+        {
+          "name": "feat/ui-card-struct",
+          "commits": [
+            {
+              "file": "src/components/Card.tsx",
+              "content": "export const Card = () => <div>Card</div>;\n",
+              "message": "feat: add Card component"
+            },
+            {
+              "file": "src/components/Card.css",
+              "content": ".Card { display: block; }\n",
+              "message": "style: add Card styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Card';\n",
+              "append": true,
+              "message": "feat: export Card"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 9",
+          "pr_body": "Automated PR for ui part 9"
+        },
+        {
+          "name": "feat/ui-card-enhance",
+          "commits": [
+            {
+              "file": "src/components/Card.tsx",
+              "content": "// Enhanced Card\n",
+              "append": true,
+              "message": "feat: enhance Card"
+            },
+            {
+              "file": "tests/components/Card.test.tsx",
+              "content": "test('Card', () => {});\n",
+              "message": "test: add Card tests"
+            },
+            {
+              "file": "stories/Card.stories.tsx",
+              "content": "// Story Card\n",
+              "message": "docs: add Card story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 10",
+          "pr_body": "Automated PR for ui part 10"
+        },
+        {
+          "name": "feat/ui-input-struct",
+          "commits": [
+            {
+              "file": "src/components/Input.tsx",
+              "content": "export const Input = () => <div>Input</div>;\n",
+              "message": "feat: add Input component"
+            },
+            {
+              "file": "src/components/Input.css",
+              "content": ".Input { display: block; }\n",
+              "message": "style: add Input styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Input';\n",
+              "append": true,
+              "message": "feat: export Input"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 11",
+          "pr_body": "Automated PR for ui part 11"
+        },
+        {
+          "name": "feat/ui-input-enhance",
+          "commits": [
+            {
+              "file": "src/components/Input.tsx",
+              "content": "// Enhanced Input\n",
+              "append": true,
+              "message": "feat: enhance Input"
+            },
+            {
+              "file": "tests/components/Input.test.tsx",
+              "content": "test('Input', () => {});\n",
+              "message": "test: add Input tests"
+            },
+            {
+              "file": "stories/Input.stories.tsx",
+              "content": "// Story Input\n",
+              "message": "docs: add Input story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 12",
+          "pr_body": "Automated PR for ui part 12"
+        },
+        {
+          "name": "feat/ui-modal-struct",
+          "commits": [
+            {
+              "file": "src/components/Modal.tsx",
+              "content": "export const Modal = () => <div>Modal</div>;\n",
+              "message": "feat: add Modal component"
+            },
+            {
+              "file": "src/components/Modal.css",
+              "content": ".Modal { display: block; }\n",
+              "message": "style: add Modal styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Modal';\n",
+              "append": true,
+              "message": "feat: export Modal"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 13",
+          "pr_body": "Automated PR for ui part 13"
+        },
+        {
+          "name": "feat/ui-modal-enhance",
+          "commits": [
+            {
+              "file": "src/components/Modal.tsx",
+              "content": "// Enhanced Modal\n",
+              "append": true,
+              "message": "feat: enhance Modal"
+            },
+            {
+              "file": "tests/components/Modal.test.tsx",
+              "content": "test('Modal', () => {});\n",
+              "message": "test: add Modal tests"
+            },
+            {
+              "file": "stories/Modal.stories.tsx",
+              "content": "// Story Modal\n",
+              "message": "docs: add Modal story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 14",
+          "pr_body": "Automated PR for ui part 14"
+        },
+        {
+          "name": "feat/ui-toast-struct",
+          "commits": [
+            {
+              "file": "src/components/Toast.tsx",
+              "content": "export const Toast = () => <div>Toast</div>;\n",
+              "message": "feat: add Toast component"
+            },
+            {
+              "file": "src/components/Toast.css",
+              "content": ".Toast { display: block; }\n",
+              "message": "style: add Toast styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Toast';\n",
+              "append": true,
+              "message": "feat: export Toast"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 15",
+          "pr_body": "Automated PR for ui part 15"
+        },
+        {
+          "name": "feat/ui-toast-enhance",
+          "commits": [
+            {
+              "file": "src/components/Toast.tsx",
+              "content": "// Enhanced Toast\n",
+              "append": true,
+              "message": "feat: enhance Toast"
+            },
+            {
+              "file": "tests/components/Toast.test.tsx",
+              "content": "test('Toast', () => {});\n",
+              "message": "test: add Toast tests"
+            },
+            {
+              "file": "stories/Toast.stories.tsx",
+              "content": "// Story Toast\n",
+              "message": "docs: add Toast story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 16",
+          "pr_body": "Automated PR for ui part 16"
+        },
+        {
+          "name": "feat/ui-loader-struct",
+          "commits": [
+            {
+              "file": "src/components/Loader.tsx",
+              "content": "export const Loader = () => <div>Loader</div>;\n",
+              "message": "feat: add Loader component"
+            },
+            {
+              "file": "src/components/Loader.css",
+              "content": ".Loader { display: block; }\n",
+              "message": "style: add Loader styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Loader';\n",
+              "append": true,
+              "message": "feat: export Loader"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 17",
+          "pr_body": "Automated PR for ui part 17"
+        },
+        {
+          "name": "feat/ui-loader-enhance",
+          "commits": [
+            {
+              "file": "src/components/Loader.tsx",
+              "content": "// Enhanced Loader\n",
+              "append": true,
+              "message": "feat: enhance Loader"
+            },
+            {
+              "file": "tests/components/Loader.test.tsx",
+              "content": "test('Loader', () => {});\n",
+              "message": "test: add Loader tests"
+            },
+            {
+              "file": "stories/Loader.stories.tsx",
+              "content": "// Story Loader\n",
+              "message": "docs: add Loader story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 18",
+          "pr_body": "Automated PR for ui part 18"
+        },
+        {
+          "name": "feat/ui-grid-struct",
+          "commits": [
+            {
+              "file": "src/components/Grid.tsx",
+              "content": "export const Grid = () => <div>Grid</div>;\n",
+              "message": "feat: add Grid component"
+            },
+            {
+              "file": "src/components/Grid.css",
+              "content": ".Grid { display: block; }\n",
+              "message": "style: add Grid styles"
+            },
+            {
+              "file": "src/index.tsx",
+              "content": "export * from './components/Grid';\n",
+              "append": true,
+              "message": "feat: export Grid"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 19",
+          "pr_body": "Automated PR for ui part 19"
+        },
+        {
+          "name": "feat/ui-grid-enhance",
+          "commits": [
+            {
+              "file": "src/components/Grid.tsx",
+              "content": "// Enhanced Grid\n",
+              "append": true,
+              "message": "feat: enhance Grid"
+            },
+            {
+              "file": "tests/components/Grid.test.tsx",
+              "content": "test('Grid', () => {});\n",
+              "message": "test: add Grid tests"
+            },
+            {
+              "file": "stories/Grid.stories.tsx",
+              "content": "// Story Grid\n",
+              "message": "docs: add Grid story"
+            }
+          ],
+          "pr_title": "feat: ui implementation part 20",
+          "pr_body": "Automated PR for ui part 20"
+        }
+      ]
+    },
+    {
+      "name": "core-logic",
+      "branches": [
+        {
+          "name": "feat/logic-update-1",
+          "commits": [
+            {
+              "file": "src/pages/page-1.tsx",
+              "content": "// Page 1\n",
+              "message": "feat: add page 1"
+            },
+            {
+              "file": "src/utils/util-1.ts",
+              "content": "export const util1 = () => {};\n",
+              "message": "feat: add util 1"
+            },
+            {
+              "file": "src/api/endpoint-1.ts",
+              "content": "// API 1\n",
+              "message": "feat: add api 1"
+            },
+            {
+              "file": "docs/guide-1.md",
+              "content": "# Guide 1\n",
+              "message": "docs: add guide 1"
+            },
+            {
+              "file": "tests/logic/test-1.ts",
+              "content": "// Test 1\n",
+              "message": "test: add logic test 1"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 1",
+          "pr_body": "Automated PR for core-logic part 1"
+        },
+        {
+          "name": "feat/logic-update-2",
+          "commits": [
+            {
+              "file": "src/pages/page-2.tsx",
+              "content": "// Page 2\n",
+              "message": "feat: add page 2"
+            },
+            {
+              "file": "src/utils/util-2.ts",
+              "content": "export const util2 = () => {};\n",
+              "message": "feat: add util 2"
+            },
+            {
+              "file": "src/api/endpoint-2.ts",
+              "content": "// API 2\n",
+              "message": "feat: add api 2"
+            },
+            {
+              "file": "docs/guide-2.md",
+              "content": "# Guide 2\n",
+              "message": "docs: add guide 2"
+            },
+            {
+              "file": "tests/logic/test-2.ts",
+              "content": "// Test 2\n",
+              "message": "test: add logic test 2"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 2",
+          "pr_body": "Automated PR for core-logic part 2"
+        },
+        {
+          "name": "feat/logic-update-3",
+          "commits": [
+            {
+              "file": "src/pages/page-3.tsx",
+              "content": "// Page 3\n",
+              "message": "feat: add page 3"
+            },
+            {
+              "file": "src/utils/util-3.ts",
+              "content": "export const util3 = () => {};\n",
+              "message": "feat: add util 3"
+            },
+            {
+              "file": "src/api/endpoint-3.ts",
+              "content": "// API 3\n",
+              "message": "feat: add api 3"
+            },
+            {
+              "file": "docs/guide-3.md",
+              "content": "# Guide 3\n",
+              "message": "docs: add guide 3"
+            },
+            {
+              "file": "tests/logic/test-3.ts",
+              "content": "// Test 3\n",
+              "message": "test: add logic test 3"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 3",
+          "pr_body": "Automated PR for core-logic part 3"
+        },
+        {
+          "name": "feat/logic-update-4",
+          "commits": [
+            {
+              "file": "src/pages/page-4.tsx",
+              "content": "// Page 4\n",
+              "message": "feat: add page 4"
+            },
+            {
+              "file": "src/utils/util-4.ts",
+              "content": "export const util4 = () => {};\n",
+              "message": "feat: add util 4"
+            },
+            {
+              "file": "src/api/endpoint-4.ts",
+              "content": "// API 4\n",
+              "message": "feat: add api 4"
+            },
+            {
+              "file": "docs/guide-4.md",
+              "content": "# Guide 4\n",
+              "message": "docs: add guide 4"
+            },
+            {
+              "file": "tests/logic/test-4.ts",
+              "content": "// Test 4\n",
+              "message": "test: add logic test 4"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 4",
+          "pr_body": "Automated PR for core-logic part 4"
+        },
+        {
+          "name": "feat/logic-update-5",
+          "commits": [
+            {
+              "file": "src/pages/page-5.tsx",
+              "content": "// Page 5\n",
+              "message": "feat: add page 5"
+            },
+            {
+              "file": "src/utils/util-5.ts",
+              "content": "export const util5 = () => {};\n",
+              "message": "feat: add util 5"
+            },
+            {
+              "file": "src/api/endpoint-5.ts",
+              "content": "// API 5\n",
+              "message": "feat: add api 5"
+            },
+            {
+              "file": "docs/guide-5.md",
+              "content": "# Guide 5\n",
+              "message": "docs: add guide 5"
+            },
+            {
+              "file": "tests/logic/test-5.ts",
+              "content": "// Test 5\n",
+              "message": "test: add logic test 5"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 5",
+          "pr_body": "Automated PR for core-logic part 5"
+        },
+        {
+          "name": "feat/logic-update-6",
+          "commits": [
+            {
+              "file": "src/pages/page-6.tsx",
+              "content": "// Page 6\n",
+              "message": "feat: add page 6"
+            },
+            {
+              "file": "src/utils/util-6.ts",
+              "content": "export const util6 = () => {};\n",
+              "message": "feat: add util 6"
+            },
+            {
+              "file": "src/api/endpoint-6.ts",
+              "content": "// API 6\n",
+              "message": "feat: add api 6"
+            },
+            {
+              "file": "docs/guide-6.md",
+              "content": "# Guide 6\n",
+              "message": "docs: add guide 6"
+            },
+            {
+              "file": "tests/logic/test-6.ts",
+              "content": "// Test 6\n",
+              "message": "test: add logic test 6"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 6",
+          "pr_body": "Automated PR for core-logic part 6"
+        },
+        {
+          "name": "feat/logic-update-7",
+          "commits": [
+            {
+              "file": "src/pages/page-7.tsx",
+              "content": "// Page 7\n",
+              "message": "feat: add page 7"
+            },
+            {
+              "file": "src/utils/util-7.ts",
+              "content": "export const util7 = () => {};\n",
+              "message": "feat: add util 7"
+            },
+            {
+              "file": "src/api/endpoint-7.ts",
+              "content": "// API 7\n",
+              "message": "feat: add api 7"
+            },
+            {
+              "file": "docs/guide-7.md",
+              "content": "# Guide 7\n",
+              "message": "docs: add guide 7"
+            },
+            {
+              "file": "tests/logic/test-7.ts",
+              "content": "// Test 7\n",
+              "message": "test: add logic test 7"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 7",
+          "pr_body": "Automated PR for core-logic part 7"
+        },
+        {
+          "name": "feat/logic-update-8",
+          "commits": [
+            {
+              "file": "src/pages/page-8.tsx",
+              "content": "// Page 8\n",
+              "message": "feat: add page 8"
+            },
+            {
+              "file": "src/utils/util-8.ts",
+              "content": "export const util8 = () => {};\n",
+              "message": "feat: add util 8"
+            },
+            {
+              "file": "src/api/endpoint-8.ts",
+              "content": "// API 8\n",
+              "message": "feat: add api 8"
+            },
+            {
+              "file": "docs/guide-8.md",
+              "content": "# Guide 8\n",
+              "message": "docs: add guide 8"
+            },
+            {
+              "file": "tests/logic/test-8.ts",
+              "content": "// Test 8\n",
+              "message": "test: add logic test 8"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 8",
+          "pr_body": "Automated PR for core-logic part 8"
+        },
+        {
+          "name": "feat/logic-update-9",
+          "commits": [
+            {
+              "file": "src/pages/page-9.tsx",
+              "content": "// Page 9\n",
+              "message": "feat: add page 9"
+            },
+            {
+              "file": "src/utils/util-9.ts",
+              "content": "export const util9 = () => {};\n",
+              "message": "feat: add util 9"
+            },
+            {
+              "file": "src/api/endpoint-9.ts",
+              "content": "// API 9\n",
+              "message": "feat: add api 9"
+            },
+            {
+              "file": "docs/guide-9.md",
+              "content": "# Guide 9\n",
+              "message": "docs: add guide 9"
+            },
+            {
+              "file": "tests/logic/test-9.ts",
+              "content": "// Test 9\n",
+              "message": "test: add logic test 9"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 9",
+          "pr_body": "Automated PR for core-logic part 9"
+        },
+        {
+          "name": "feat/logic-update-10",
+          "commits": [
+            {
+              "file": "src/pages/page-10.tsx",
+              "content": "// Page 10\n",
+              "message": "feat: add page 10"
+            },
+            {
+              "file": "src/utils/util-10.ts",
+              "content": "export const util10 = () => {};\n",
+              "message": "feat: add util 10"
+            },
+            {
+              "file": "src/api/endpoint-10.ts",
+              "content": "// API 10\n",
+              "message": "feat: add api 10"
+            },
+            {
+              "file": "docs/guide-10.md",
+              "content": "# Guide 10\n",
+              "message": "docs: add guide 10"
+            },
+            {
+              "file": "tests/logic/test-10.ts",
+              "content": "// Test 10\n",
+              "message": "test: add logic test 10"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 10",
+          "pr_body": "Automated PR for core-logic part 10"
+        },
+        {
+          "name": "feat/logic-update-11",
+          "commits": [
+            {
+              "file": "src/pages/page-11.tsx",
+              "content": "// Page 11\n",
+              "message": "feat: add page 11"
+            },
+            {
+              "file": "src/utils/util-11.ts",
+              "content": "export const util11 = () => {};\n",
+              "message": "feat: add util 11"
+            },
+            {
+              "file": "src/api/endpoint-11.ts",
+              "content": "// API 11\n",
+              "message": "feat: add api 11"
+            },
+            {
+              "file": "docs/guide-11.md",
+              "content": "# Guide 11\n",
+              "message": "docs: add guide 11"
+            },
+            {
+              "file": "tests/logic/test-11.ts",
+              "content": "// Test 11\n",
+              "message": "test: add logic test 11"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 11",
+          "pr_body": "Automated PR for core-logic part 11"
+        },
+        {
+          "name": "feat/logic-update-12",
+          "commits": [
+            {
+              "file": "src/pages/page-12.tsx",
+              "content": "// Page 12\n",
+              "message": "feat: add page 12"
+            },
+            {
+              "file": "src/utils/util-12.ts",
+              "content": "export const util12 = () => {};\n",
+              "message": "feat: add util 12"
+            },
+            {
+              "file": "src/api/endpoint-12.ts",
+              "content": "// API 12\n",
+              "message": "feat: add api 12"
+            },
+            {
+              "file": "docs/guide-12.md",
+              "content": "# Guide 12\n",
+              "message": "docs: add guide 12"
+            },
+            {
+              "file": "tests/logic/test-12.ts",
+              "content": "// Test 12\n",
+              "message": "test: add logic test 12"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 12",
+          "pr_body": "Automated PR for core-logic part 12"
+        },
+        {
+          "name": "feat/logic-update-13",
+          "commits": [
+            {
+              "file": "src/pages/page-13.tsx",
+              "content": "// Page 13\n",
+              "message": "feat: add page 13"
+            },
+            {
+              "file": "src/utils/util-13.ts",
+              "content": "export const util13 = () => {};\n",
+              "message": "feat: add util 13"
+            },
+            {
+              "file": "src/api/endpoint-13.ts",
+              "content": "// API 13\n",
+              "message": "feat: add api 13"
+            },
+            {
+              "file": "docs/guide-13.md",
+              "content": "# Guide 13\n",
+              "message": "docs: add guide 13"
+            },
+            {
+              "file": "tests/logic/test-13.ts",
+              "content": "// Test 13\n",
+              "message": "test: add logic test 13"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 13",
+          "pr_body": "Automated PR for core-logic part 13"
+        },
+        {
+          "name": "feat/logic-update-14",
+          "commits": [
+            {
+              "file": "src/pages/page-14.tsx",
+              "content": "// Page 14\n",
+              "message": "feat: add page 14"
+            },
+            {
+              "file": "src/utils/util-14.ts",
+              "content": "export const util14 = () => {};\n",
+              "message": "feat: add util 14"
+            },
+            {
+              "file": "src/api/endpoint-14.ts",
+              "content": "// API 14\n",
+              "message": "feat: add api 14"
+            },
+            {
+              "file": "docs/guide-14.md",
+              "content": "# Guide 14\n",
+              "message": "docs: add guide 14"
+            },
+            {
+              "file": "tests/logic/test-14.ts",
+              "content": "// Test 14\n",
+              "message": "test: add logic test 14"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 14",
+          "pr_body": "Automated PR for core-logic part 14"
+        },
+        {
+          "name": "feat/logic-update-15",
+          "commits": [
+            {
+              "file": "src/pages/page-15.tsx",
+              "content": "// Page 15\n",
+              "message": "feat: add page 15"
+            },
+            {
+              "file": "src/utils/util-15.ts",
+              "content": "export const util15 = () => {};\n",
+              "message": "feat: add util 15"
+            },
+            {
+              "file": "src/api/endpoint-15.ts",
+              "content": "// API 15\n",
+              "message": "feat: add api 15"
+            },
+            {
+              "file": "docs/guide-15.md",
+              "content": "# Guide 15\n",
+              "message": "docs: add guide 15"
+            },
+            {
+              "file": "tests/logic/test-15.ts",
+              "content": "// Test 15\n",
+              "message": "test: add logic test 15"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 15",
+          "pr_body": "Automated PR for core-logic part 15"
+        },
+        {
+          "name": "feat/logic-update-16",
+          "commits": [
+            {
+              "file": "src/pages/page-16.tsx",
+              "content": "// Page 16\n",
+              "message": "feat: add page 16"
+            },
+            {
+              "file": "src/utils/util-16.ts",
+              "content": "export const util16 = () => {};\n",
+              "message": "feat: add util 16"
+            },
+            {
+              "file": "src/api/endpoint-16.ts",
+              "content": "// API 16\n",
+              "message": "feat: add api 16"
+            },
+            {
+              "file": "docs/guide-16.md",
+              "content": "# Guide 16\n",
+              "message": "docs: add guide 16"
+            },
+            {
+              "file": "tests/logic/test-16.ts",
+              "content": "// Test 16\n",
+              "message": "test: add logic test 16"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 16",
+          "pr_body": "Automated PR for core-logic part 16"
+        },
+        {
+          "name": "feat/logic-update-17",
+          "commits": [
+            {
+              "file": "src/pages/page-17.tsx",
+              "content": "// Page 17\n",
+              "message": "feat: add page 17"
+            },
+            {
+              "file": "src/utils/util-17.ts",
+              "content": "export const util17 = () => {};\n",
+              "message": "feat: add util 17"
+            },
+            {
+              "file": "src/api/endpoint-17.ts",
+              "content": "// API 17\n",
+              "message": "feat: add api 17"
+            },
+            {
+              "file": "docs/guide-17.md",
+              "content": "# Guide 17\n",
+              "message": "docs: add guide 17"
+            },
+            {
+              "file": "tests/logic/test-17.ts",
+              "content": "// Test 17\n",
+              "message": "test: add logic test 17"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 17",
+          "pr_body": "Automated PR for core-logic part 17"
+        },
+        {
+          "name": "feat/logic-update-18",
+          "commits": [
+            {
+              "file": "src/pages/page-18.tsx",
+              "content": "// Page 18\n",
+              "message": "feat: add page 18"
+            },
+            {
+              "file": "src/utils/util-18.ts",
+              "content": "export const util18 = () => {};\n",
+              "message": "feat: add util 18"
+            },
+            {
+              "file": "src/api/endpoint-18.ts",
+              "content": "// API 18\n",
+              "message": "feat: add api 18"
+            },
+            {
+              "file": "docs/guide-18.md",
+              "content": "# Guide 18\n",
+              "message": "docs: add guide 18"
+            },
+            {
+              "file": "tests/logic/test-18.ts",
+              "content": "// Test 18\n",
+              "message": "test: add logic test 18"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 18",
+          "pr_body": "Automated PR for core-logic part 18"
+        },
+        {
+          "name": "feat/logic-update-19",
+          "commits": [
+            {
+              "file": "src/pages/page-19.tsx",
+              "content": "// Page 19\n",
+              "message": "feat: add page 19"
+            },
+            {
+              "file": "src/utils/util-19.ts",
+              "content": "export const util19 = () => {};\n",
+              "message": "feat: add util 19"
+            },
+            {
+              "file": "src/api/endpoint-19.ts",
+              "content": "// API 19\n",
+              "message": "feat: add api 19"
+            },
+            {
+              "file": "docs/guide-19.md",
+              "content": "# Guide 19\n",
+              "message": "docs: add guide 19"
+            },
+            {
+              "file": "tests/logic/test-19.ts",
+              "content": "// Test 19\n",
+              "message": "test: add logic test 19"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 19",
+          "pr_body": "Automated PR for core-logic part 19"
+        },
+        {
+          "name": "feat/logic-update-20",
+          "commits": [
+            {
+              "file": "src/pages/page-20.tsx",
+              "content": "// Page 20\n",
+              "message": "feat: add page 20"
+            },
+            {
+              "file": "src/utils/util-20.ts",
+              "content": "export const util20 = () => {};\n",
+              "message": "feat: add util 20"
+            },
+            {
+              "file": "src/api/endpoint-20.ts",
+              "content": "// API 20\n",
+              "message": "feat: add api 20"
+            },
+            {
+              "file": "docs/guide-20.md",
+              "content": "# Guide 20\n",
+              "message": "docs: add guide 20"
+            },
+            {
+              "file": "tests/logic/test-20.ts",
+              "content": "// Test 20\n",
+              "message": "test: add logic test 20"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 20",
+          "pr_body": "Automated PR for core-logic part 20"
+        },
+        {
+          "name": "feat/logic-update-21",
+          "commits": [
+            {
+              "file": "src/pages/page-21.tsx",
+              "content": "// Page 21\n",
+              "message": "feat: add page 21"
+            },
+            {
+              "file": "src/utils/util-21.ts",
+              "content": "export const util21 = () => {};\n",
+              "message": "feat: add util 21"
+            },
+            {
+              "file": "src/api/endpoint-21.ts",
+              "content": "// API 21\n",
+              "message": "feat: add api 21"
+            },
+            {
+              "file": "docs/guide-21.md",
+              "content": "# Guide 21\n",
+              "message": "docs: add guide 21"
+            },
+            {
+              "file": "tests/logic/test-21.ts",
+              "content": "// Test 21\n",
+              "message": "test: add logic test 21"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 21",
+          "pr_body": "Automated PR for core-logic part 21"
+        },
+        {
+          "name": "feat/logic-update-22",
+          "commits": [
+            {
+              "file": "src/pages/page-22.tsx",
+              "content": "// Page 22\n",
+              "message": "feat: add page 22"
+            },
+            {
+              "file": "src/utils/util-22.ts",
+              "content": "export const util22 = () => {};\n",
+              "message": "feat: add util 22"
+            },
+            {
+              "file": "src/api/endpoint-22.ts",
+              "content": "// API 22\n",
+              "message": "feat: add api 22"
+            },
+            {
+              "file": "docs/guide-22.md",
+              "content": "# Guide 22\n",
+              "message": "docs: add guide 22"
+            },
+            {
+              "file": "tests/logic/test-22.ts",
+              "content": "// Test 22\n",
+              "message": "test: add logic test 22"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 22",
+          "pr_body": "Automated PR for core-logic part 22"
+        },
+        {
+          "name": "feat/logic-update-23",
+          "commits": [
+            {
+              "file": "src/pages/page-23.tsx",
+              "content": "// Page 23\n",
+              "message": "feat: add page 23"
+            },
+            {
+              "file": "src/utils/util-23.ts",
+              "content": "export const util23 = () => {};\n",
+              "message": "feat: add util 23"
+            },
+            {
+              "file": "src/api/endpoint-23.ts",
+              "content": "// API 23\n",
+              "message": "feat: add api 23"
+            },
+            {
+              "file": "docs/guide-23.md",
+              "content": "# Guide 23\n",
+              "message": "docs: add guide 23"
+            },
+            {
+              "file": "tests/logic/test-23.ts",
+              "content": "// Test 23\n",
+              "message": "test: add logic test 23"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 23",
+          "pr_body": "Automated PR for core-logic part 23"
+        },
+        {
+          "name": "feat/logic-update-24",
+          "commits": [
+            {
+              "file": "src/pages/page-24.tsx",
+              "content": "// Page 24\n",
+              "message": "feat: add page 24"
+            },
+            {
+              "file": "src/utils/util-24.ts",
+              "content": "export const util24 = () => {};\n",
+              "message": "feat: add util 24"
+            },
+            {
+              "file": "src/api/endpoint-24.ts",
+              "content": "// API 24\n",
+              "message": "feat: add api 24"
+            },
+            {
+              "file": "docs/guide-24.md",
+              "content": "# Guide 24\n",
+              "message": "docs: add guide 24"
+            },
+            {
+              "file": "tests/logic/test-24.ts",
+              "content": "// Test 24\n",
+              "message": "test: add logic test 24"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 24",
+          "pr_body": "Automated PR for core-logic part 24"
+        },
+        {
+          "name": "feat/logic-update-25",
+          "commits": [
+            {
+              "file": "src/pages/page-25.tsx",
+              "content": "// Page 25\n",
+              "message": "feat: add page 25"
+            },
+            {
+              "file": "src/utils/util-25.ts",
+              "content": "export const util25 = () => {};\n",
+              "message": "feat: add util 25"
+            },
+            {
+              "file": "src/api/endpoint-25.ts",
+              "content": "// API 25\n",
+              "message": "feat: add api 25"
+            },
+            {
+              "file": "docs/guide-25.md",
+              "content": "# Guide 25\n",
+              "message": "docs: add guide 25"
+            },
+            {
+              "file": "tests/logic/test-25.ts",
+              "content": "// Test 25\n",
+              "message": "test: add logic test 25"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 25",
+          "pr_body": "Automated PR for core-logic part 25"
+        },
+        {
+          "name": "feat/logic-update-26",
+          "commits": [
+            {
+              "file": "src/pages/page-26.tsx",
+              "content": "// Page 26\n",
+              "message": "feat: add page 26"
+            },
+            {
+              "file": "src/utils/util-26.ts",
+              "content": "export const util26 = () => {};\n",
+              "message": "feat: add util 26"
+            },
+            {
+              "file": "src/api/endpoint-26.ts",
+              "content": "// API 26\n",
+              "message": "feat: add api 26"
+            },
+            {
+              "file": "docs/guide-26.md",
+              "content": "# Guide 26\n",
+              "message": "docs: add guide 26"
+            },
+            {
+              "file": "tests/logic/test-26.ts",
+              "content": "// Test 26\n",
+              "message": "test: add logic test 26"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 26",
+          "pr_body": "Automated PR for core-logic part 26"
+        },
+        {
+          "name": "feat/logic-update-27",
+          "commits": [
+            {
+              "file": "src/pages/page-27.tsx",
+              "content": "// Page 27\n",
+              "message": "feat: add page 27"
+            },
+            {
+              "file": "src/utils/util-27.ts",
+              "content": "export const util27 = () => {};\n",
+              "message": "feat: add util 27"
+            },
+            {
+              "file": "src/api/endpoint-27.ts",
+              "content": "// API 27\n",
+              "message": "feat: add api 27"
+            },
+            {
+              "file": "docs/guide-27.md",
+              "content": "# Guide 27\n",
+              "message": "docs: add guide 27"
+            },
+            {
+              "file": "tests/logic/test-27.ts",
+              "content": "// Test 27\n",
+              "message": "test: add logic test 27"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 27",
+          "pr_body": "Automated PR for core-logic part 27"
+        },
+        {
+          "name": "feat/logic-update-28",
+          "commits": [
+            {
+              "file": "src/pages/page-28.tsx",
+              "content": "// Page 28\n",
+              "message": "feat: add page 28"
+            },
+            {
+              "file": "src/utils/util-28.ts",
+              "content": "export const util28 = () => {};\n",
+              "message": "feat: add util 28"
+            },
+            {
+              "file": "src/api/endpoint-28.ts",
+              "content": "// API 28\n",
+              "message": "feat: add api 28"
+            },
+            {
+              "file": "docs/guide-28.md",
+              "content": "# Guide 28\n",
+              "message": "docs: add guide 28"
+            },
+            {
+              "file": "tests/logic/test-28.ts",
+              "content": "// Test 28\n",
+              "message": "test: add logic test 28"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 28",
+          "pr_body": "Automated PR for core-logic part 28"
+        },
+        {
+          "name": "feat/logic-update-29",
+          "commits": [
+            {
+              "file": "src/pages/page-29.tsx",
+              "content": "// Page 29\n",
+              "message": "feat: add page 29"
+            },
+            {
+              "file": "src/utils/util-29.ts",
+              "content": "export const util29 = () => {};\n",
+              "message": "feat: add util 29"
+            },
+            {
+              "file": "src/api/endpoint-29.ts",
+              "content": "// API 29\n",
+              "message": "feat: add api 29"
+            },
+            {
+              "file": "docs/guide-29.md",
+              "content": "# Guide 29\n",
+              "message": "docs: add guide 29"
+            },
+            {
+              "file": "tests/logic/test-29.ts",
+              "content": "// Test 29\n",
+              "message": "test: add logic test 29"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 29",
+          "pr_body": "Automated PR for core-logic part 29"
+        },
+        {
+          "name": "feat/logic-update-30",
+          "commits": [
+            {
+              "file": "src/pages/page-30.tsx",
+              "content": "// Page 30\n",
+              "message": "feat: add page 30"
+            },
+            {
+              "file": "src/utils/util-30.ts",
+              "content": "export const util30 = () => {};\n",
+              "message": "feat: add util 30"
+            },
+            {
+              "file": "src/api/endpoint-30.ts",
+              "content": "// API 30\n",
+              "message": "feat: add api 30"
+            },
+            {
+              "file": "docs/guide-30.md",
+              "content": "# Guide 30\n",
+              "message": "docs: add guide 30"
+            },
+            {
+              "file": "tests/logic/test-30.ts",
+              "content": "// Test 30\n",
+              "message": "test: add logic test 30"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 30",
+          "pr_body": "Automated PR for core-logic part 30"
+        },
+        {
+          "name": "feat/logic-update-31",
+          "commits": [
+            {
+              "file": "src/pages/page-31.tsx",
+              "content": "// Page 31\n",
+              "message": "feat: add page 31"
+            },
+            {
+              "file": "src/utils/util-31.ts",
+              "content": "export const util31 = () => {};\n",
+              "message": "feat: add util 31"
+            },
+            {
+              "file": "src/api/endpoint-31.ts",
+              "content": "// API 31\n",
+              "message": "feat: add api 31"
+            },
+            {
+              "file": "docs/guide-31.md",
+              "content": "# Guide 31\n",
+              "message": "docs: add guide 31"
+            },
+            {
+              "file": "tests/logic/test-31.ts",
+              "content": "// Test 31\n",
+              "message": "test: add logic test 31"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 31",
+          "pr_body": "Automated PR for core-logic part 31"
+        },
+        {
+          "name": "feat/logic-update-32",
+          "commits": [
+            {
+              "file": "src/pages/page-32.tsx",
+              "content": "// Page 32\n",
+              "message": "feat: add page 32"
+            },
+            {
+              "file": "src/utils/util-32.ts",
+              "content": "export const util32 = () => {};\n",
+              "message": "feat: add util 32"
+            },
+            {
+              "file": "src/api/endpoint-32.ts",
+              "content": "// API 32\n",
+              "message": "feat: add api 32"
+            },
+            {
+              "file": "docs/guide-32.md",
+              "content": "# Guide 32\n",
+              "message": "docs: add guide 32"
+            },
+            {
+              "file": "tests/logic/test-32.ts",
+              "content": "// Test 32\n",
+              "message": "test: add logic test 32"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 32",
+          "pr_body": "Automated PR for core-logic part 32"
+        },
+        {
+          "name": "feat/logic-update-33",
+          "commits": [
+            {
+              "file": "src/pages/page-33.tsx",
+              "content": "// Page 33\n",
+              "message": "feat: add page 33"
+            },
+            {
+              "file": "src/utils/util-33.ts",
+              "content": "export const util33 = () => {};\n",
+              "message": "feat: add util 33"
+            },
+            {
+              "file": "src/api/endpoint-33.ts",
+              "content": "// API 33\n",
+              "message": "feat: add api 33"
+            },
+            {
+              "file": "docs/guide-33.md",
+              "content": "# Guide 33\n",
+              "message": "docs: add guide 33"
+            },
+            {
+              "file": "tests/logic/test-33.ts",
+              "content": "// Test 33\n",
+              "message": "test: add logic test 33"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 33",
+          "pr_body": "Automated PR for core-logic part 33"
+        },
+        {
+          "name": "feat/logic-update-34",
+          "commits": [
+            {
+              "file": "src/pages/page-34.tsx",
+              "content": "// Page 34\n",
+              "message": "feat: add page 34"
+            },
+            {
+              "file": "src/utils/util-34.ts",
+              "content": "export const util34 = () => {};\n",
+              "message": "feat: add util 34"
+            },
+            {
+              "file": "src/api/endpoint-34.ts",
+              "content": "// API 34\n",
+              "message": "feat: add api 34"
+            },
+            {
+              "file": "docs/guide-34.md",
+              "content": "# Guide 34\n",
+              "message": "docs: add guide 34"
+            },
+            {
+              "file": "tests/logic/test-34.ts",
+              "content": "// Test 34\n",
+              "message": "test: add logic test 34"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 34",
+          "pr_body": "Automated PR for core-logic part 34"
+        },
+        {
+          "name": "feat/logic-update-35",
+          "commits": [
+            {
+              "file": "src/pages/page-35.tsx",
+              "content": "// Page 35\n",
+              "message": "feat: add page 35"
+            },
+            {
+              "file": "src/utils/util-35.ts",
+              "content": "export const util35 = () => {};\n",
+              "message": "feat: add util 35"
+            },
+            {
+              "file": "src/api/endpoint-35.ts",
+              "content": "// API 35\n",
+              "message": "feat: add api 35"
+            },
+            {
+              "file": "docs/guide-35.md",
+              "content": "# Guide 35\n",
+              "message": "docs: add guide 35"
+            },
+            {
+              "file": "tests/logic/test-35.ts",
+              "content": "// Test 35\n",
+              "message": "test: add logic test 35"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 35",
+          "pr_body": "Automated PR for core-logic part 35"
+        },
+        {
+          "name": "feat/logic-update-36",
+          "commits": [
+            {
+              "file": "src/pages/page-36.tsx",
+              "content": "// Page 36\n",
+              "message": "feat: add page 36"
+            },
+            {
+              "file": "src/utils/util-36.ts",
+              "content": "export const util36 = () => {};\n",
+              "message": "feat: add util 36"
+            },
+            {
+              "file": "src/api/endpoint-36.ts",
+              "content": "// API 36\n",
+              "message": "feat: add api 36"
+            },
+            {
+              "file": "docs/guide-36.md",
+              "content": "# Guide 36\n",
+              "message": "docs: add guide 36"
+            },
+            {
+              "file": "tests/logic/test-36.ts",
+              "content": "// Test 36\n",
+              "message": "test: add logic test 36"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 36",
+          "pr_body": "Automated PR for core-logic part 36"
+        },
+        {
+          "name": "feat/logic-update-37",
+          "commits": [
+            {
+              "file": "src/pages/page-37.tsx",
+              "content": "// Page 37\n",
+              "message": "feat: add page 37"
+            },
+            {
+              "file": "src/utils/util-37.ts",
+              "content": "export const util37 = () => {};\n",
+              "message": "feat: add util 37"
+            },
+            {
+              "file": "src/api/endpoint-37.ts",
+              "content": "// API 37\n",
+              "message": "feat: add api 37"
+            },
+            {
+              "file": "docs/guide-37.md",
+              "content": "# Guide 37\n",
+              "message": "docs: add guide 37"
+            },
+            {
+              "file": "tests/logic/test-37.ts",
+              "content": "// Test 37\n",
+              "message": "test: add logic test 37"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 37",
+          "pr_body": "Automated PR for core-logic part 37"
+        },
+        {
+          "name": "feat/logic-update-38",
+          "commits": [
+            {
+              "file": "src/pages/page-38.tsx",
+              "content": "// Page 38\n",
+              "message": "feat: add page 38"
+            },
+            {
+              "file": "src/utils/util-38.ts",
+              "content": "export const util38 = () => {};\n",
+              "message": "feat: add util 38"
+            },
+            {
+              "file": "src/api/endpoint-38.ts",
+              "content": "// API 38\n",
+              "message": "feat: add api 38"
+            },
+            {
+              "file": "docs/guide-38.md",
+              "content": "# Guide 38\n",
+              "message": "docs: add guide 38"
+            },
+            {
+              "file": "tests/logic/test-38.ts",
+              "content": "// Test 38\n",
+              "message": "test: add logic test 38"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 38",
+          "pr_body": "Automated PR for core-logic part 38"
+        },
+        {
+          "name": "feat/logic-update-39",
+          "commits": [
+            {
+              "file": "src/pages/page-39.tsx",
+              "content": "// Page 39\n",
+              "message": "feat: add page 39"
+            },
+            {
+              "file": "src/utils/util-39.ts",
+              "content": "export const util39 = () => {};\n",
+              "message": "feat: add util 39"
+            },
+            {
+              "file": "src/api/endpoint-39.ts",
+              "content": "// API 39\n",
+              "message": "feat: add api 39"
+            },
+            {
+              "file": "docs/guide-39.md",
+              "content": "# Guide 39\n",
+              "message": "docs: add guide 39"
+            },
+            {
+              "file": "tests/logic/test-39.ts",
+              "content": "// Test 39\n",
+              "message": "test: add logic test 39"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 39",
+          "pr_body": "Automated PR for core-logic part 39"
+        },
+        {
+          "name": "feat/logic-update-40",
+          "commits": [
+            {
+              "file": "src/pages/page-40.tsx",
+              "content": "// Page 40\n",
+              "message": "feat: add page 40"
+            },
+            {
+              "file": "src/utils/util-40.ts",
+              "content": "export const util40 = () => {};\n",
+              "message": "feat: add util 40"
+            },
+            {
+              "file": "src/api/endpoint-40.ts",
+              "content": "// API 40\n",
+              "message": "feat: add api 40"
+            },
+            {
+              "file": "docs/guide-40.md",
+              "content": "# Guide 40\n",
+              "message": "docs: add guide 40"
+            },
+            {
+              "file": "tests/logic/test-40.ts",
+              "content": "// Test 40\n",
+              "message": "test: add logic test 40"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 40",
+          "pr_body": "Automated PR for core-logic part 40"
+        },
+        {
+          "name": "feat/logic-update-41",
+          "commits": [
+            {
+              "file": "src/pages/page-41.tsx",
+              "content": "// Page 41\n",
+              "message": "feat: add page 41"
+            },
+            {
+              "file": "src/utils/util-41.ts",
+              "content": "export const util41 = () => {};\n",
+              "message": "feat: add util 41"
+            },
+            {
+              "file": "src/api/endpoint-41.ts",
+              "content": "// API 41\n",
+              "message": "feat: add api 41"
+            },
+            {
+              "file": "docs/guide-41.md",
+              "content": "# Guide 41\n",
+              "message": "docs: add guide 41"
+            },
+            {
+              "file": "tests/logic/test-41.ts",
+              "content": "// Test 41\n",
+              "message": "test: add logic test 41"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 41",
+          "pr_body": "Automated PR for core-logic part 41"
+        },
+        {
+          "name": "feat/logic-update-42",
+          "commits": [
+            {
+              "file": "src/pages/page-42.tsx",
+              "content": "// Page 42\n",
+              "message": "feat: add page 42"
+            },
+            {
+              "file": "src/utils/util-42.ts",
+              "content": "export const util42 = () => {};\n",
+              "message": "feat: add util 42"
+            },
+            {
+              "file": "src/api/endpoint-42.ts",
+              "content": "// API 42\n",
+              "message": "feat: add api 42"
+            },
+            {
+              "file": "docs/guide-42.md",
+              "content": "# Guide 42\n",
+              "message": "docs: add guide 42"
+            },
+            {
+              "file": "tests/logic/test-42.ts",
+              "content": "// Test 42\n",
+              "message": "test: add logic test 42"
+            }
+          ],
+          "pr_title": "feat: core-logic implementation part 42",
+          "pr_body": "Automated PR for core-logic part 42"
+        }
+      ]
+    }
+  ]
+}
