@@ -6,3 +6,4 @@
 - Wallet Connect Step 5
 - Wallet Connect Step 6
 - Wallet Connect Step 7
+- Wallet Connect Step 8
