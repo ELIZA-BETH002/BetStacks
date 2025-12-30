@@ -57,17 +57,58 @@ for (let f = 1; f <= 10; f++) {
                 {
                     file: `docs/feature-${f}/doc-${b}.md`,
                     content: `# Documentation for Feature ${f} - Section ${b}\n`,
-                    message: `docs: create doc ${f}-${b}`
+                    message: `docs: create file for ${f}-${b}`
                 },
                 {
                     file: `docs/feature-${f}/doc-${b}.md`,
-                    content: `Content details...\n`,
+                    content: `## Overview\nThis is the overview.\n`,
                     append: true,
-                    message: `docs: add details to ${f}-${b}`
+                    message: `docs: add overview to ${f}-${b}`
+                },
+                {
+                    file: `docs/feature-${f}/doc-${b}.md`,
+                    content: `## Section 1\nDetails about section 1.\n`,
+                    append: true,
+                    message: `docs: add section 1 to ${f}-${b}`
+                },
+                {
+                    file: `docs/feature-${f}/doc-${b}.md`,
+                    content: `## Section 2\nDetails about section 2.\n`,
+                    append: true,
+                    message: `docs: add section 2 to ${f}-${b}`
+                },
+                {
+                    file: `docs/feature-${f}/doc-${b}.md`,
+                    content: `## Examples\n\`\`\`js\nconst x = 1;\n\`\`\`\n`,
+                    append: true,
+                    message: `docs: add examples to ${f}-${b}`
+                },
+                {
+                    file: `docs/feature-${f}/doc-${b}.md`,
+                    content: `![Diagram](diagram.png)\n`,
+                    append: true,
+                    message: `docs: add diagram placeholder to ${f}-${b}`
+                },
+                {
+                    file: `tests/feature-${f}/test-${b}.test.ts`,
+                    content: `import { describe, it, expect } from 'vitest';\n`,
+                    message: `test: setup test file for ${f}-${b}`
+                },
+                {
+                    file: `tests/feature-${f}/test-${b}.test.ts`,
+                    content: `describe('Feature ${f} - ${b}', () => {\n`,
+                    append: true,
+                    message: `test: add describe block for ${f}-${b}`
+                },
+                {
+                    file: `tests/feature-${f}/test-${b}.test.ts`,
+                    content: `  it('should work', () => {\n    expect(true).toBe(true);\n  });\n});`,
+                    append: true,
+                    message: `test: add test case for ${f}-${b}`
                 }
             ],
             pr_title: `feat: Feature Set ${f} Branch ${b}`,
-            pr_body: `Automated PR for feature set ${f} branch ${b}`
+            pr_body: `Automated PR with documentation and tests for feature set ${f} branch ${b}`
         });
     }
     manifest.features.push(feature);
